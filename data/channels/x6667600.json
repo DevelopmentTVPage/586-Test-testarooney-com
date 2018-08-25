@@ -1,0 +1,56 @@
+{
+    "title": "Seasonal-Featured",
+    "description": "Featured",
+    "referenceId": null,
+    "date_created": "1444851564",
+    "date_modified": "1521946588",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6667600",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "Seasonal-Featured",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "blocks": [
+            {
+                "add": "videos",
+                "conditions": {
+                    "order": "none",
+                    "lastNDays": "",
+                    "limit": "",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {
+                        "video_type": "Featured",
+                        "status": "approved",
+                        "visibility": "1"
+                    },
+                    "products": {
+                        "Web_Offered": "Y",
+                        "Web_Disabled": "N"
+                    }
+                },
+                "options": {
+                    "channel": "85595586"
+                },
+                "extras": {
+                    "channelName": "Seasonal"
+                }
+            }
+        ],
+        "productBlock": {
+            "match": "all",
+            "recommended": true,
+            "attributes": {
+                "Web_Offered": "Y",
+                "Web_Disabled": "N"
+            }
+        }
+    },
+    "transcripts": null
+}
