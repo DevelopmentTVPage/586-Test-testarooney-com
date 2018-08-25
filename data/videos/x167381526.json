@@ -1,0 +1,113 @@
+{
+    "title": "Shag Ri La 2016",
+    "description": "",
+    "referenceId": "769a0007f616320c29be47e60e35e209",
+    "date_created": "1531959177",
+    "date_modified": "1532364771",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "0",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "167381526",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Shag-Ri-La-2016",
+    "category": "",
+    "duration": "29",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "29",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "29",
+        "prettyDuration": "00:00:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/167381526\/768b8\/thumb-769a0007f616320c29be47e60e35e209-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/167381526\/768b8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/167381526\/768b8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/167381526\/cc\/vtt\/en_1532364764.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/167381526\/768b8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/167381526\/768b8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/167381526\/768b8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/167381526\/768b8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/167381526\/768b8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "University of Tennessee Health Science Center",
+    "tvp_enhanced_transcript": ""
+}

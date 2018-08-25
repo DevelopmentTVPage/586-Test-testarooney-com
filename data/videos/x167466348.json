@@ -1,0 +1,113 @@
+{
+    "title": "Master Pan Intro",
+    "description": "",
+    "referenceId": "3b9d2a7ae6998782ee2690ac60e5796b",
+    "date_created": "1532386797",
+    "date_modified": "1532473013",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "0",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "167466348",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Master-Pan-Intro",
+    "category": "",
+    "duration": "190",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "190",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "190",
+        "prettyDuration": "00:03:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/167466348\/ccb8d\/thumb-3b9d2a7ae6998782ee2690ac60e5796b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/167466348\/ccb8d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/167466348\/ccb8d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/167466348\/cc\/vtt\/en_1532473006.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/167466348\/ccb8d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/167466348\/ccb8d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/167466348\/ccb8d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/167466348\/ccb8d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/167466348\/ccb8d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "Pink Floyd: Behind the Wall (2000) Ville de Gap Pancevo Herb Zielonej G\u00f3ry",
+    "tvp_enhanced_transcript": ""
+}
