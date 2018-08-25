@@ -1,0 +1,105 @@
+{
+    "title": "Project Nursery Sight and Sound Bluetooth Projector",
+    "description": "",
+    "referenceId": "246f5efc19bb2fa48320ceb230751e5d",
+    "date_created": "1531150019",
+    "date_modified": "1531150272",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "166682383",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "PN-SightSoundBTProjector-1060101709",
+    "category": "",
+    "duration": "86",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "86",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "86",
+        "prettyDuration": "00:01:26",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1080\/791367132-1531150221.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/166682383\/1d12b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/166682383\/1d12b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/166682383\/1d12b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/166682383\/1d12b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/166682383\/1d12b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/166682383\/1d12b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/166682383\/1d12b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has closed captions embedded.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "7\/9\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "Project Nursery MS Production Dermo Gears The David Project Marketplace Events Home Depot Home Services Atresmedia Bluetooth",
+    "tvp_enhanced_transcript": ""
+}
